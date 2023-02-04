@@ -5,4 +5,4 @@ public record UpdateTaskRequest(
     string Name,
     string Description,
     DateTime DateCreated,
-    List<string> tags);
+    List<string> Tags);

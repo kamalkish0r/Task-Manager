@@ -4,4 +4,4 @@ public record CreateTaskRequest(
     string Name,
     string Description,
     DateTime DateCreated,
-    List<string> tags);
+    List<string> Tags);
