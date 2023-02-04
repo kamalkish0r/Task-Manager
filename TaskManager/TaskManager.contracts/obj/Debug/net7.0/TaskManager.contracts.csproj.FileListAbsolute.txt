@@ -1,0 +1,12 @@
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.csproj.AssemblyReference.cache
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.AssemblyInfoInputs.cache
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.AssemblyInfo.cs
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.csproj.CoreCompileInputs.cache
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/bin/Debug/net7.0/TaskManager.contracts.deps.json
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/bin/Debug/net7.0/TaskManager.contracts.dll
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/bin/Debug/net7.0/TaskManager.contracts.pdb
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.dll
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/refint/TaskManager.contracts.dll
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/TaskManager.contracts.pdb
+/Users/kamalkishor/Desktop/dev/projects/Task-Manager/TaskManager/TaskManager.contracts/obj/Debug/net7.0/ref/TaskManager.contracts.dll
